@@ -1,4 +1,4 @@
-# Multiperson_Detection
+# Multiperson_Pose_Detection
 Application of Movenet model to detect multiple objects in a frame
 Refer the link- https://tfhub.dev/google/movenet/multipose
 tutorials posted by Nicholas- https://www.youtube.com/watch?v=KC7nJtBHBqg&list=PLXxGuqpiGy3DYadMxf1cwACoDzP0-ajcx&index=6
