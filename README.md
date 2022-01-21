@@ -1,4 +1,7 @@
 # Multiperson_Pose_Detection
+
+As quoted on the Tensorflow Hub Image pose detection page- "A convolutional neural network model that runs on RGB images and predicts human joint locations of people in the image frame."
+
 ![image](https://user-images.githubusercontent.com/98158660/150531398-de4574d6-8b06-42eb-ac81-daea5817764a.png)
 
 Application of Movenet model to detect multiple objects in a frame
